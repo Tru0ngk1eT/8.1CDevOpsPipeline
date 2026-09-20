@@ -2,5 +2,6 @@
 
 
 
-test trigger 
+test trigger
+test email text
 
